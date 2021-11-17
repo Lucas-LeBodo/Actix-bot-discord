@@ -1,5 +1,5 @@
 {
-  "name": "actix-bot-discord",
+  "name": "actyx-bot-discord",
   "version": "0.1.0",
   "description": "This is a discord app, made for a birthday event, on a discord private server. ",
   "main": "main.js",
@@ -8,15 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lucas-LeBodo/Actix-bot-discord.git"
+    "url": "git+https://github.com/Lucas-LeBodo/Actyx-bot-discord.git"
   },
   "author": "Lucas_#2690",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Lucas-LeBodo/Actix-bot-discord/issues"
+    "url": "https://github.com/Lucas-LeBodo/Actyx-bot-discord/issues"
   },
-  "homepage": "https://github.com/Lucas-LeBodo/Actix-bot-discord#readme",
+  "homepage": "https://github.com/Lucas-LeBodo/Actyx-bot-discord#readme",
   "dependencies": {
-    "discord.js": "^13.3.1"
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0"
   }
 }
